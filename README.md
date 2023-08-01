@@ -1,4 +1,4 @@
-__JobFound - Simplify Your Job Search__
+**JobFound - Simplify Your Job Search**
 
 JobFound is a user-friendly mobile application that aims to simplify and enhance the job search process. 
 Developed using React Native, Axios, and Node.js. With its modern and intuitive UI/UX, users can easily browse and apply for jobs from various industries. 
